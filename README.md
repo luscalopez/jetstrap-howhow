@@ -56,7 +56,7 @@ Use Composer to install HowHow Jetstrap into your new Laravel project as dev dep
 
 ```
 
-composer require pixinvent/jetstrap-HowHow --dev
+composer require luscalopez/jetstrap-howhow --dev
  
 
 ```
