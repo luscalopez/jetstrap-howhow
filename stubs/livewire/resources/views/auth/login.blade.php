@@ -4,7 +4,7 @@
 
 @section('page-style')
   {{-- Page Css files --}}
-  <link rel="stylesheet" href="{{ asset(mix('css/base/pages/authentication.css')) }}">
+  <link rel="stylesheet" href="{{ asset(mix('frontend/css/base/pages/authentication.css')) }}">
 @endsection
 
 @section('content')
@@ -47,10 +47,10 @@
                 </g>
               </g>
             </svg>
-            <h2 class="brand-text text-primary ms-1">Vuexy</h2>
+            <h2 class="brand-text text-primary ms-1">HowHow</h2>
           </a>
 
-          <h4 class="card-title mb-1">Welcome to Vuexy! 👋</h4>
+          <h4 class="card-title mb-1">Welcome to HowHow! 👋</h4>
           <p class="card-text mb-2">Please sign-in to your account and start the adventure</p>
 
           @if (session('status'))

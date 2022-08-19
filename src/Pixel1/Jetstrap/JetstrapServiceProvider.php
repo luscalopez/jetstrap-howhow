@@ -1,6 +1,6 @@
 <?php
 
-namespace Pixinvent\Jetstrap;
+namespace Pixel1\Jetstrap;
 
 use Illuminate\Support\ServiceProvider;
 

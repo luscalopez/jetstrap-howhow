@@ -1,6 +1,6 @@
 <?php
 
-namespace Pixinvent\Jetstrap\Console;
+namespace Pixel1\Jetstrap\Console;
 
 use Illuminate\Console\Command;
 use Illuminate\Filesystem\Filesystem;
@@ -13,7 +13,7 @@ class InstallCommand extends Command
      *
      * @var string
      */
-    protected $signature = 'jetstrap_vuexy:swap {stack : The development stack that should be installed}
+    protected $signature = 'jetstrap_howhow:swap {stack : The development stack that should be installed}
                                               {--teams : Indicates if team support should be installed}';
 
     /**

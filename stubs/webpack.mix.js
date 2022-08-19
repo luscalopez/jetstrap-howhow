@@ -91,10 +91,10 @@ mix.then(() => {
 //   mix.version()
 //   mix.webpackConfig({
 //     output: {
-//       publicPath: '/demo/vuexy-bootstrap-laravel-admin-template-new/demo-2/'
+//       publicPath: '/demo/howhow-bootstrap-laravel-admin-template-new/demo-2/'
 //     }
 //   })
-//   mix.setResourceRoot('/demo/vuexy-bootstrap-laravel-admin-template-new/demo-2/')
+//   mix.setResourceRoot('/demo/howhow-bootstrap-laravel-admin-template-new/demo-2/')
 // }
 
 /*
